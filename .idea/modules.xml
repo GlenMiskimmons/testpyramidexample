@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rxdemo-fitnesse/rxdemo-fitnesse.iml" filepath="$PROJECT_DIR$/rxdemo-fitnesse/rxdemo-fitnesse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxdemo-selenium/rxdemo-selenium.iml" filepath="$PROJECT_DIR$/rxdemo-selenium/rxdemo-selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxdemo-server/rxdemo-server.iml" filepath="$PROJECT_DIR$/rxdemo-server/rxdemo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxdemo-ui/rxdemo-ui.iml" filepath="$PROJECT_DIR$/rxdemo-ui/rxdemo-ui.iml" />
+    </modules>
+  </component>
+</project>
